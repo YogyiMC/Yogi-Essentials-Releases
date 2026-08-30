@@ -117,6 +117,39 @@ GitHub Releases can always be used as an alternative official download source.
 
 ---
 
+## Screenshots
+
+### Main Menu
+
+<img width="2559" height="1439" alt="Screenshot 2026-08-29 220444" src="https://github.com/user-attachments/assets/58399d8f-f0f5-4b49-a75f-66b809d7ae20" />
+
+### HUD Menu
+
+<img width="2559" height="1439" alt="Screenshot 2026-08-29 224953" src="https://github.com/user-attachments/assets/b890e99c-9443-4933-9f06-95bfa109cd35" />
+
+### PVP Menu
+
+<img width="2559" height="1439" alt="Screenshot 2026-08-29 224944" src="https://github.com/user-attachments/assets/4a5f1a77-c8f3-4dd4-af4f-da2ce616b621" />
+
+### SMP Menu
+
+<img width="2559" height="1439" alt="Screenshot 2026-08-29 224956" src="https://github.com/user-attachments/assets/7984e773-1500-4e6a-a982-2f964fed00cf" />
+
+
+### Fixes Menu
+
+<img width="2556" height="1439" alt="Screenshot 2026-08-29 225000" src="https://github.com/user-attachments/assets/68b8f8b8-faea-4b06-b2c8-124996f628bd" />
+
+### Optimizations Menu
+
+<img width="2559" height="1439" alt="Screenshot 2026-08-29 224743" src="https://github.com/user-attachments/assets/26d0ef76-c4ea-4cf8-bff4-2212f3cf5260" />
+
+### Performance Menu
+
+<img width="2559" height="1439" alt="Screenshot 2026-08-29 224733" src="https://github.com/user-attachments/assets/48151ba0-c7df-4f78-8935-4f2eb3c09b18" />
+
+---
+
 ## Issues & Feedback
 
 If you find a bug, include as much information as possible when reporting it:
