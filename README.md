@@ -108,10 +108,10 @@ You can use it on compatible vanilla and Fabric servers without the server needi
 
 ## Other Downloads
 
-Yogi Essentials is also being published on:
+Yogi Essentials is also published on:
 
-- Modrinth
-- CurseForge
+- Modrinth: https://modrinth.com/mod/yogi-essentials
+- CurseForge: https://www.curseforge.com/minecraft/mc-mods/yogi-essentials
 
 GitHub Releases can always be used as an alternative official download source.
 
