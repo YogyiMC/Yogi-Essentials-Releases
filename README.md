@@ -12,7 +12,7 @@ Download the newest version from the **Releases** section on the right side of t
 
 ### Latest Release
 
-**Yogi Essentials v1.0.1**
+**Yogi Essentials v1.0.2**
 
 Minecraft: **1.21.11**  
 Loader: **Fabric**  
