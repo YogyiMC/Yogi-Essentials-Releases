@@ -30,7 +30,7 @@ Customize Minecraft's first-person and world visuals with modules such as:
 - Bossbar customization
 - and more
 
-![Visuals](assets/screenshots/visuals.png)
+![Visuals](visuals.png)
 
 ---
 
@@ -49,7 +49,7 @@ Includes:
 - Potion Effects
 - and more
 
-![HUD](assets/screenshots/hud.png)
+![HUD](hud.png)
 
 ---
 
@@ -69,7 +69,7 @@ Includes:
 - Distortion Effects
 - and more
 
-![PvP](assets/screenshots/pvp.png)
+![PvP](pvp.png)
 
 ---
 
@@ -88,7 +88,7 @@ Includes:
 - Bossbar customization
 - and more
 
-![SMP](assets/screenshots/smp.png)
+![SMP](smp.png)
 
 ---
 
@@ -107,7 +107,7 @@ Includes:
 - Chat History Limit
 - Message Highlighting
 
-![Chat](assets/screenshots/chat.png)
+![Chat](chat.png)
 
 ---
 
@@ -126,7 +126,7 @@ Includes:
 - World Load Stutter Fix
 - and more
 
-![Fixes](assets/screenshots/fixes.png)
+![Fixes](fixes.png)
 
 ---
 
@@ -144,7 +144,7 @@ Includes:
 - General PvP Optimizer
 - and more
 
-![Optimizations](assets/screenshots/optimizations.png)
+![Optimizations](optimizations.png)
 
 ---
 
@@ -166,7 +166,7 @@ Includes:
 - Custom Terrain Renderer
 - and many more
 
-![Performance](assets/screenshots/performance.png)
+![Performance](performance.png)
 
 ---
 
