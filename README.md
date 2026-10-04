@@ -1,169 +1,216 @@
 # Yogi Essentials
 
-A client-side Fabric mod for Minecraft 1.21.11 focused on customizable HUDs, PvP tools, SMP utilities, performance improvements, and quality-of-life features.
+**Yogi Essentials** is an all-in-one client-side utility mod for **Minecraft 1.21.11**, built for PvP, SMP, HUD customization, performance, and everyday quality-of-life improvements.
 
-> This repository contains the official compiled releases of Yogi Essentials.
+Everything runs entirely on the client, so **servers do not need Yogi Essentials installed**.
 
----
+Most features can be customized directly through the in-game menu, including appearance, positioning, sizing, keybinds, and behavior.
 
-## Download
-
-Download the newest version from the **Releases** section on the right side of this page.
-
-### Latest Release
-
-**Yogi Essentials v1.0.2**
-
-Minecraft: **1.21.11**  
-Loader: **Fabric**  
-Environment: **Client-side**  
-Java: **21**
-
----
-
-## Requirements
-
-Before installing Yogi Essentials, make sure you have:
-
-- Minecraft 1.21.11
-- Fabric Loader
-- Fabric API
-- Java 21
+[![Available for Fabric](https://img.shields.io/badge/Available%20for-Fabric-d9c9a3?logo=fabric)](https://fabricmc.net/)
+[![Download on CurseForge](https://img.shields.io/badge/Download%20on-CurseForge-f16436?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/yogi-essentials)
+[![Download on Modrinth](https://img.shields.io/badge/Download%20on-Modrinth-1bd96a?logo=modrinth)](YOUR_MODRINTH_URL)
 
 ---
 
 ## Features
 
-### HUDs
+### Visuals
 
-- FPS
-- Ping
-- Coordinates
-- Armor
-- Potion Effects
-- Totem Counter
-- Saturation
-- Reach Display
-- Attack Cooldown
-- Shield Status
-- Fully customizable HUD editor
-- Individual HUD positioning and resizing
-- HUD alignment snapping
-- Configurable colors, backgrounds and drop shadows
+Customize Minecraft's first-person and world visuals with modules such as:
 
-### PvP
-
-- Toggle Sprint
 - Low Fire
 - Low Shield
 - Side Shield
 - Small Block
 - Small Totem
 - Item Viewmodels
-- PvP optimizers
-- Warning Queue
-- Various input and gameplay fixes
-
-### SMP & Utility
-
-- Waypoints
-- Nether travel waypoint projection
+- Nametag Customizer
 - Fullbright
 - Fog Customizer
 - Bossbar customization
+- and more
+
+![Visuals](assets/screenshots/visuals.png)
+
+---
+
+### HUD
+
+A fully customizable HUD system with draggable elements and live previews.
+
+Includes:
+
+- FPS
+- Ping
+- Coordinates
+- Armor Durability
+- Totem Counter
+- Shield Status
+- Potion Effects
+- and more
+
+![HUD](assets/screenshots/hud.png)
+
+---
+
+### PvP
+
+Combat-focused tools and visual improvements designed to stay client-side.
+
+Includes:
+
+- Hitboxes
+- Hit Registration
+- Motion Blur
+- Reach Display
+- Custom Crosshair
+- Hurt Camera
+- FOV Effects
+- Distortion Effects
+- and more
+
+![PvP](assets/screenshots/pvp.png)
+
+---
+
+### SMP
+
+Useful tools for survival and multiplayer gameplay.
+
+Includes:
+
+- Waypoints
+- Shulker Box Preview
+- Streamer Privacy Mode
 - Zoom
-- No Potion Particles
-- Streamer Privacy
-- Borderless Fullscreen
-- Configurable keybinds
+- Fullbright
+- Fog Customizer
+- Bossbar customization
+- and more
+
+![SMP](assets/screenshots/smp.png)
+
+---
+
+### Chat
+
+Customize and improve Minecraft's chat experience.
+
+Includes:
+
+- Chat Pings
+- Chat Search Bar
+- Chat Background Opacity
+- Chat Size
+- Repeated Message Stacking
+- Click to Copy
+- Chat History Limit
+- Message Highlighting
+
+![Chat](assets/screenshots/chat.png)
+
+---
+
+### Fixes
+
+Client-side fixes designed to improve consistency and reliability.
+
+Includes:
+
+- Centered Crosshair Fix
+- Stuck-Key Fix
+- Focus Recovery Fix
+- FPS Recovery Fix
+- World-Unload Cleanup
+- Frame Transition Stability
+- World Load Stutter Fix
+- and more
+
+![Fixes](assets/screenshots/fixes.png)
+
+---
+
+### Optimizations
+
+Gameplay-focused client optimizations.
+
+Includes:
+
+- Input Optimizer
+- Mace Optimizer
+- Pearl Optimizer
+- Crystal Optimizer
+- Pot Optimizer
+- General PvP Optimizer
+- and more
+
+![Optimizations](assets/screenshots/optimizations.png)
+
+---
 
 ### Performance
 
-- Performance optimization modules
-- Automatic optimization tools
-- FPS recovery features
-- Client-side responsiveness improvements
+A large collection of FPS, rendering, memory, and frame-pacing improvements.
+
+Includes:
+
+- Auto Optimizer
+- Borderless Fullscreen
+- Memory Stability
+- Minimal Particles
+- No Entity Shadows
+- Chunk Update Stabilizer
+- Adaptive Entity Budget
+- Memory Pressure Guard
+- Microstutter Guard
+- Custom Terrain Renderer
+- and many more
+
+![Performance](assets/screenshots/performance.png)
 
 ---
 
-## Installation
+## Auto Optimizer
 
-1. Install Fabric Loader for Minecraft 1.21.11.
-2. Install Fabric API.
-3. Download the latest Yogi Essentials `.jar` from Releases.
-4. Place the file inside your Minecraft `mods` folder.
-5. Start Minecraft using your Fabric installation.
+Yogi Essentials includes an automatic performance optimizer that benchmarks your current performance and applies reversible optimizations based on your system and installed mods.
 
-No server-side installation is required.
+The optimizer includes:
 
----
-
-## Client-Side
-
-Yogi Essentials is designed to run entirely on the client.
-
-You can use it on compatible vanilla and Fabric servers without the server needing to install Yogi Essentials.
+- Before / After FPS benchmarking
+- Hardware and mod detection
+- Reversible optimization profiles
+- Automatic rollback when appropriate
+- Focus-loss protection
+- Clear optimization results
 
 ---
 
-## Other Downloads
+## Client-Side Only
 
-Yogi Essentials is also being published on:
+Yogi Essentials is fully client-side.
 
-- Modrinth
-- CurseForge
-
-GitHub Releases can always be used as an alternative official download source.
+You can use it on servers without the server needing to install the mod.
 
 ---
 
-## Screenshots
+## Requirements
 
-### Main Menu
-
-<img width="2559" height="1439" alt="Screenshot 2026-08-29 220444" src="https://github.com/user-attachments/assets/58399d8f-f0f5-4b49-a75f-66b809d7ae20" />
-
-### HUD Menu
-
-<img width="2559" height="1439" alt="Screenshot 2026-08-29 224953" src="https://github.com/user-attachments/assets/b890e99c-9443-4933-9f06-95bfa109cd35" />
-
-### PVP Menu
-
-<img width="2559" height="1439" alt="Screenshot 2026-08-29 224944" src="https://github.com/user-attachments/assets/4a5f1a77-c8f3-4dd4-af4f-da2ce616b621" />
-
-### SMP Menu
-
-<img width="2559" height="1439" alt="Screenshot 2026-08-29 224956" src="https://github.com/user-attachments/assets/7984e773-1500-4e6a-a982-2f964fed00cf" />
-
-
-### Fixes Menu
-
-<img width="2556" height="1439" alt="Screenshot 2026-08-29 225000" src="https://github.com/user-attachments/assets/68b8f8b8-faea-4b06-b2c8-124996f628bd" />
-
-### Optimizations Menu
-
-<img width="2559" height="1439" alt="Screenshot 2026-08-29 224743" src="https://github.com/user-attachments/assets/26d0ef76-c4ea-4cf8-bff4-2212f3cf5260" />
-
-### Performance Menu
-
-<img width="2559" height="1439" alt="Screenshot 2026-08-29 224733" src="https://github.com/user-attachments/assets/48151ba0-c7df-4f78-8935-4f2eb3c09b18" />
+- **Minecraft 1.21.11**
+- **Fabric Loader**
+- **Fabric API**
 
 ---
 
-## Issues & Feedback
+## Downloads
 
-If you find a bug, include as much information as possible when reporting it:
+[![Download on Modrinth](https://img.shields.io/badge/Download%20on-Modrinth-1bd96a?logo=modrinth)](YOUR_MODRINTH_URL)
 
-- Minecraft version
-- Yogi Essentials version
-- Other installed mods
-- Crash log or latest log when relevant
-- Steps to reproduce the problem
+[![Download on CurseForge](https://img.shields.io/badge/Download%20on-CurseForge-f16436?logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/yogi-essentials)
+
+[![Available for Fabric](https://img.shields.io/badge/Available%20for-Fabric-d9c9a3?logo=fabric)](https://fabricmc.net/)
 
 ---
 
-## License
+## Yogi Essentials
 
-**All Rights Reserved**
-
-Yogi Essentials may not be redistributed, modified, reuploaded, or repackaged without permission.
+Built for players who want more control over Minecraft without turning the client into something bloated.
